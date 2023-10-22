@@ -1,0 +1,44 @@
+{
+    "continent" : "Africa",
+    "continentRegion" : "West Africa",
+    "latitude" : "8° north",
+    "longitude" : "1°10' east",
+    "boundaries" : {
+        "north" : {
+            "name" : "Burkina-Faso",
+            "country" : true,
+            "borderLength" : {
+                "value" : 126,
+                "unit" : "km"
+            }
+        },
+        "west" : {
+            "name" : "Ghana",
+            "country" : true,
+            "borderLength" : {
+                "value" : 877,
+                "unit" : "km"
+            }
+        },
+        "south" : {
+            "name" : "Gulf of Guinea",
+            "country" : false,
+            "borderLength" : {
+                "value" : 56,
+                "unit" : "km"
+            }
+        },
+        "est" : {
+            "name" : "Benin",
+            "country" : true,
+            "borderLength" : {
+                "value" : 644,
+                "unit" : "km"
+            }
+        }
+    },
+    "area" : {
+        "value" : 56600,
+        "unit" : "km²"
+    }
+}

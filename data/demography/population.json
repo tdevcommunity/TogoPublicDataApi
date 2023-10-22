@@ -1,0 +1,254 @@
+{
+    "RGPH-5" : {
+        "date" : "November 2022",
+        "general" : {
+            "total" : 8095498,
+            "male" : 3944510,
+            "female" : 4150988
+        },
+        "regions" : {
+			"Grand Lomé": {
+				"prefectures": {
+					"Golfe": {
+						"total": "1,305,681",
+						"male": "631,567",
+						"female": "674,114"
+					},
+					"Agoè-Nyivé": {
+						"total": "882,695",
+						"male": "428,937",
+						"female": "453,758"
+					}
+				},
+				"total": "2,188,376",
+				"male": "1,060,504",
+				"female": "1,127,872"
+			},
+			"Maritime sans Grand Lomé": {
+				"prefectures": {
+					"Zio": {
+						"total": "500,032",
+						"male": "242,367",
+						"female": "257,665"
+					},
+					"Yoto": {
+						"total": "174,851",
+						"male": "82,859",
+						"female": "91,992"
+					},
+					"Bas-Mono": {
+						"total": "94,860",
+						"male": "44,366",
+						"female": "50,494"
+					},
+					"Lacs": {
+						"total": "241,247",
+						"male": "115,468",
+						"female": "125,779"
+					},
+					"Vo": {
+						"total": "224,411",
+						"male": "104,485",
+						"female": "119,926"
+					},
+					"Avé": {
+						"total": "111,214",
+						"male": "53,331",
+						"female": "57,883"
+					}
+				},
+				"total": "1,346,615",
+				"male": "642,876",
+				"female": "703,739"
+			},
+			"Plateaux": {
+				"prefectures": {
+					"Ogou": {
+						"total": "253,467",
+						"male": "124,073",
+						"female": "129,394"
+					},
+					"Moyen-Mono": {
+						"total": "90,505",
+						"male": "41,413",
+						"female": "49,092"
+					},
+					"Haho": {
+						"total": "305,096",
+						"male": "148,029",
+						"female": "157,067"
+					},
+					"Agou": {
+						"total": "85,793",
+						"male": "42,449",
+						"female": "43,344"
+					},
+					"Kloto": {
+						"total": "145,986",
+						"male": "71,161",
+						"female": "74,825"
+					},
+					"Kpélé": {
+						"total": "80,939",
+						"male": "40,129",
+						"female": "40,810"
+					},
+					"Danyi": {
+						"total": "40,240",
+						"male": "20,512",
+						"female": "19,728"
+					},
+					"Wawa": {
+						"total": "101,300",
+						"male": "51,383",
+						"female": "49,917"
+					},
+					"Akébou": {
+						"total": "73,830",
+						"male": "37,236",
+						"female": "36,594"
+					},
+					"Amou": {
+						"total": "114,172",
+						"male": "56,543",
+						"female": "57,629"
+					},
+					"Anié": {
+						"total": "180,158",
+						"male": "89,897",
+						"female": "90,261"
+					},
+					"Est-Mono": {
+						"total": "164,460",
+						"male": "83,329",
+						"female": "81,131"
+					}
+				},
+				"total": "1,635,946",
+				"male": "806,154",
+				"female": "829,792"
+			},
+			"Centrale": {
+				"prefectures": {
+					"Tchaoudjo": {
+						"total": "240,360",
+						"male": "119,126",
+						"female": "121,234"
+					},
+					"Tchamba": {
+						"total": "200,585",
+						"male": "100,980",
+						"female": "99,605"
+					},
+					"Blitta": {
+						"total": "163,272",
+						"male": "81,602",
+						"female": "81,670"
+					},
+					"Sotouboua": {
+						"total": "138,864",
+						"male": "69,140",
+						"female": "69,724"
+					},
+					"Mô": {
+						"total": "52,448",
+						"male": "26,488",
+						"female": "25,960"
+					}
+				},
+				"total": "795,529",
+				"male": "397,336",
+				"female": "398,193"
+			},
+			"Kara": {
+				"prefectures": {
+					"Kozah": {
+						"total": "283,738",
+						"male": "141,188",
+						"female": "142,550"
+					},
+					"Assoli": {
+						"total": "66,394",
+						"male": "33,246",
+						"female": "33,148"
+					},
+					"Bassar": {
+						"total": "152,065",
+						"male": "76,235",
+						"female": "75,830"
+					},
+					"Dankpen": {
+						"total": "185,662",
+						"male": "91,567",
+						"female": "94,095"
+					},
+					"Kéran": {
+						"total": "128,687",
+						"male": "63,731",
+						"female": "64,956"
+					},
+					"Doufelgou": {
+						"total": "84,767",
+						"male": "40,973",
+						"female": "43,794"
+					},
+					"Binah": {
+						"total": "84,199",
+						"male": "41,285",
+						"female": "42,914"
+					}
+				},
+				"total": "985,512",
+				"male": "488,225",
+				"female": "497,287"
+			},
+			"Savanes": {
+				"prefectures": {
+					"Tône": {
+						"total": "388,775",
+						"male": "185,480",
+						"female": "203,295"
+					},
+					"Cinkassé": {
+						"total": "128,959",
+						"male": "62,574",
+						"female": "66,385"
+					},
+					"Kpendjal-Ouest": {
+						"total": "123,330",
+						"male": "58,175",
+						"female": "65,155"
+					},
+					"Kpendjal": {
+						"total": "88,365",
+						"male": "43,035",
+						"female": "45,330"
+					},
+					"Oti-Sud": {
+						"total": "150,376",
+						"male": "73,332",
+						"female": "77,044"
+					},
+					"Oti": {
+						"total": "124,848",
+						"male": "60,638",
+						"female": "64,210"
+					},
+					"Tandjoaré": {
+						"total": "138,867",
+						"male": "66,181",
+						"female": "72,686"
+					},
+					"Togo ": {
+						"total": "8,095,498",
+						"male": "3,944,510",
+						"female": "4,150,988"
+					}
+				},
+				"total": "1,143,520",
+				"male": "549,415",
+				"female": "594,105"
+			}
+        }
+    }
+}
