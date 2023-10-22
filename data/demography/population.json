@@ -1,12 +1,12 @@
 {
-    "RGPH-5" : {
-        "date" : "November 2022",
-        "general" : {
-            "total" : 8095498,
-            "male" : 3944510,
-            "female" : 4150988
-        },
-        "regions" : {
+	"RGPH-5": {
+		"date": "November 2022",
+		"general": {
+			"total": "8,095,498",
+			"male": "3,944,510",
+			"female": "4,150,988"
+		},
+		"regions": {
 			"Grand Lomé": {
 				"prefectures": {
 					"Golfe": {
@@ -249,6 +249,6 @@
 				"male": "549,415",
 				"female": "594,105"
 			}
-        }
-    }
+		}
+	}
 }
