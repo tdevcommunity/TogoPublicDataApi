@@ -1,1 +1,1 @@
-from .population import Census
+from .population import Census, Region, Population
