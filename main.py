@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 from utils.read_demography import read_population
-from utils.read_geography import read_location
+from utils.read_geography import read_location, read_subdivisions
 
 app = FastAPI()
 
@@ -19,3 +19,8 @@ def get_population():
 def get_location():
     location = read_location()
     return location
+
+@app.get("/geography/subdivisions")
+def get_subdivisions():
+    subdivisions = read_subdivisions()
+    return subdivisions
