@@ -452,15 +452,84 @@
             }
         },
         "Savanes": {
-            "prefectures": [
-                "Tône",
-                "Cinkassé",
-                "Kpendjal-Ouest",
-                "Kpendjal",
-                "Oti-Sud",
-                "Oti",
-                "Tandjoaré"
-            ]
+            "prefectures": {
+                "Tône" : {
+                    "municipalities" : {
+                        "Tône1" : {
+                            "capital" : "?!"
+                        },
+                        "Tône2" : {
+                            "capital" : "?!"
+                        },
+                        "Tône3" : {
+                            "capital" : "?!"
+                        },
+                        "Tône4" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Cinkassé" : {
+                    "municipalities" : {
+                        "Cinkassé1" : {
+                            "capital" : "?!"
+                        },
+                        "Cinkassé2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Kpendjal-Ouest" : {
+                    "municipalities" : {
+                        "Kpendjal-Ouest1" : {
+                            "capital" : "?!"
+                        },
+                        "Kpendjal-Ouest2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Kpendjal" : {
+                    "municipalities" : {
+                        "Kpendjal1" : {
+                            "capital" : "?!"
+                        },
+                        "Kpendjal2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Oti-Sud" : {
+                    "municipalities" : {
+                        "Oti-Sud1" : {
+                            "capital" : "?!"
+                        },
+                        "Oti-Sud2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Oti" : {
+                    "municipalities" : {
+                        "Oti1" : {
+                            "capital" : "?!"
+                        },
+                        "Oti2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                },
+                "Tandjoaré" : {
+                    "municipalities" : {
+                        "Tandjoaré1" : {
+                            "capital" : "?!"
+                        },
+                        "Tandjoaré2" : {
+                            "capital" : "?!"
+                        }
+                    }
+                }
+            }
         }
     }
 }
