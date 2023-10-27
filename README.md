@@ -1,29 +1,26 @@
-# h23_team4
- Repertoire pour le hacktoberfest Lome de l'equipe 4
+# Hacktoberfest projet 2 : Hub centralisé de données publiques du Togo | Equipe 4
+Ce projet a vu le jour dans le cadre du Hacktoberfest Lomé 2023.
 
-# Projet 2
-## Descriptions:
-Un hub centralisé pour accéder à des données publiques du Togo, destiné à promouvoir la transparence et à stimuler l'innovation technologique.
-## Objectifs principaux :
-- Centraliser et structurer les données publiques du Togo.
-- Promouvoir la transparence gouvernementale.
-- Faciliter l'accès aux données pour les chercheurs, développeurs et le grand public.
+## Objectif
+Ce projet consiste à centraliser et à rendre accessibles les données publiques du Togo, dans le but de promouvoir la transparence et de stimuler l'innovation technologique.
 
-**Ressources**: sites de l’INSEED, mais vous pouvez utiliser d’autres sources. Tant que ca concerne le Togo.
-
+Pour plus de détails, veuillez consulter le wiki : https://github.com/tdevcommunity/h23_team4/wiki/Accueil
 
 ## Exécuter le projet
 - Créer un environnement virtuel  
-    (Sur les systèmes basés sur Unix)
     ```sh
     python3 -m venv venv
     ```
 
 - Activer l'environnement virtuel  
-    (Sur les systèmes basés sur Unix)
-    ```sh
-    source venv/bin/activate
-    ```
+    - Unix
+        ```sh
+        source venv/bin/activate
+        ```
+    - Windows
+        ```sh
+        venv/bin/activate
+        ```
 - Installer les dépendances  
     ```sh
     pip install -r requirements.txt
@@ -37,6 +34,12 @@ Un hub centralisé pour accéder à des données publiques du Togo, destiné à 
     localhost:8000
     ```
 - La documentation est accessible au
+    ```
+    localhost:8000/docs
+    ```
+
+## Documentation 
+Une fois le projet lancé, la documentation est accessible sur le lient 
     ```
     localhost:8000/docs
     ```
