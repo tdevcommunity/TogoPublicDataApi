@@ -3,6 +3,7 @@
         "Grand Lomé": {
             "prefectures": {
                 "Golfe" : {
+                    "capital" : "",
                     "municipalities" : {
                         "Golfe1" : {
                             "capital" : "Bè-Apédomé"
@@ -28,6 +29,7 @@
                     }
                 },
                 "Agoè-Nyivé" : {
+                    "capital" : "",
                     "municipalities" : {
                         "Agoè-Nyivé1" : {
                             "capital" : "Agoè-nyivé"
@@ -54,6 +56,7 @@
         "Maritime sans Grand Lomé": {
             "prefectures": {
                 "Zio" : {
+                    "capital" : "Tsévié",
                     "municipalities" : {
                         "Zio1" : {
                             "capital" : "Tsévié"
@@ -70,6 +73,7 @@
                     }
                 },
                 "Yoto" : {
+                    "capital" : "Tabligbo",
                     "municipalities" : {
                         "Yoto1" : {
                             "capital" : "Tabligbo"
@@ -83,6 +87,7 @@
                     }
                 },
                 "Bas-Mono" : {
+                    "capital" : "Afagnan",
                     "municipalities" : {
                         "Bas-Mono1" : {
                             "capital" : "Afagnagan"
@@ -93,6 +98,7 @@
                     }
                 },
                 "Lacs" : {
+                    "capital" : "Aného",
                     "municipalities" : {
                         "Lacs1" : {
                             "capital" : "Aného"
@@ -109,6 +115,7 @@
                     }
                 },
                 "Vo" : {
+                    "capital" : "Vogan",
                     "municipalities" : {
                         "Vo1" : {
                             "capital" : "Vogan"
@@ -125,6 +132,7 @@
                     }
                 },
                 "Avé" : {
+                    "capital" : "Kévé",
                     "municipalities" : {
                         "Avé1" : {
                             "capital" : "Kévé"
