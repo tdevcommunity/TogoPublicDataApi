@@ -456,76 +456,76 @@
                 "Tône" : {
                     "municipalities" : {
                         "Tône1" : {
-                            "capital" : "?!"
+                            "capital" : "Dapaong"
                         },
                         "Tône2" : {
-                            "capital" : "?!"
+                            "capital" : "Naki-Ouest"
                         },
                         "Tône3" : {
-                            "capital" : "?!"
+                            "capital" : "Tami"
                         },
                         "Tône4" : {
-                            "capital" : "?!"
+                            "capital" : "Korbongou"
                         }
                     }
                 },
                 "Cinkassé" : {
                     "municipalities" : {
                         "Cinkassé1" : {
-                            "capital" : "?!"
+                            "capital" : "Cinkassé"
                         },
                         "Cinkassé2" : {
-                            "capital" : "?!"
+                            "capital" : "Timbou"
                         }
                     }
                 },
                 "Kpendjal-Ouest" : {
                     "municipalities" : {
                         "Kpendjal-Ouest1" : {
-                            "capital" : "?!"
+                            "capital" : "Naki-Est"
                         },
                         "Kpendjal-Ouest2" : {
-                            "capital" : "?!"
+                            "capital" : "Pognon"
                         }
                     }
                 },
                 "Kpendjal" : {
                     "municipalities" : {
                         "Kpendjal1" : {
-                            "capital" : "?!"
+                            "capital" : "Mandouri"
                         },
                         "Kpendjal2" : {
-                            "capital" : "?!"
+                            "capital" : "Borgou"
                         }
                     }
                 },
                 "Oti-Sud" : {
                     "municipalities" : {
                         "Oti-Sud1" : {
-                            "capital" : "?!"
+                            "capital" : "Gando"
                         },
                         "Oti-Sud2" : {
-                            "capital" : "?!"
+                            "capital" : "Takpamba"
                         }
                     }
                 },
                 "Oti" : {
                     "municipalities" : {
                         "Oti1" : {
-                            "capital" : "?!"
+                            "capital" : "Mango"
                         },
                         "Oti2" : {
-                            "capital" : "?!"
+                            "capital" : "Barkoissi"
                         }
                     }
                 },
                 "Tandjoaré" : {
                     "municipalities" : {
                         "Tandjoaré1" : {
-                            "capital" : "?!"
+                            "capital" : "Tandjoaré"
                         },
                         "Tandjoaré2" : {
-                            "capital" : "?!"
+                            "capital" : "Nano"
                         }
                     }
                 }
