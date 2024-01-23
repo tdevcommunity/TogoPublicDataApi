@@ -462,6 +462,7 @@
         "Savanes": {
             "prefectures": {
                 "Tône" : {
+                    "capital" : "Dapaong",
                     "municipalities" : {
                         "Tône1" : {
                             "capital" : "Dapaong"
@@ -478,6 +479,7 @@
                     }
                 },
                 "Cinkassé" : {
+                    "capital" : "Cinkassé",
                     "municipalities" : {
                         "Cinkassé1" : {
                             "capital" : "Cinkassé"
@@ -488,6 +490,7 @@
                     }
                 },
                 "Kpendjal-Ouest" : {
+                    "capital" : "Naki-Est",
                     "municipalities" : {
                         "Kpendjal-Ouest1" : {
                             "capital" : "Naki-Est"
@@ -498,6 +501,7 @@
                     }
                 },
                 "Kpendjal" : {
+                    "capital" : "Mandouri",
                     "municipalities" : {
                         "Kpendjal1" : {
                             "capital" : "Mandouri"
@@ -508,6 +512,7 @@
                     }
                 },
                 "Oti-Sud" : {
+                    "capital" : "Gando",
                     "municipalities" : {
                         "Oti-Sud1" : {
                             "capital" : "Gando"
@@ -518,6 +523,7 @@
                     }
                 },
                 "Oti" : {
+                    "capital" : "Mango",
                     "municipalities" : {
                         "Oti1" : {
                             "capital" : "Mango"
@@ -528,6 +534,7 @@
                     }
                 },
                 "Tandjoaré" : {
+                    "capital" : "Tandjouaré",
                     "municipalities" : {
                         "Tandjoaré1" : {
                             "capital" : "Tandjoaré"
