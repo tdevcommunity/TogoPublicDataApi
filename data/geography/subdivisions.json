@@ -3,7 +3,7 @@
         "Grand Lomé": {
             "prefectures": {
                 "Golfe" : {
-                    "capital" : "",
+                    "capital" : "Lomé",
                     "municipalities" : {
                         "Golfe1" : {
                             "capital" : "Bè-Apédomé"
@@ -29,7 +29,7 @@
                     }
                 },
                 "Agoè-Nyivé" : {
-                    "capital" : "",
+                    "capital" : "Agoè-Nyivé",
                     "municipalities" : {
                         "Agoè-Nyivé1" : {
                             "capital" : "Agoè-nyivé"
@@ -147,6 +147,7 @@
         "Plateaux": {
             "prefectures": {
                 "Ogou" : {
+                    "capital" : "Atakpamé",
                     "municipalities" : {
                         "Ogou1" : {
                             "capital" : "Atakpamé"
@@ -163,6 +164,7 @@
                     }
                 },
                 "Moyen-Mono" : {
+                    "capital" : "Tohoun",
                     "municipalities" : {
                         "Moyen-Mono1" : {
                             "capital" : "Tohoun"
@@ -173,6 +175,7 @@
                     }
                 },
                 "Haho" : {
+                    "capital" : "Notsé",
                     "municipalities" : {
                         "Haho1" : {
                             "capital" : "Notsé"
@@ -189,6 +192,7 @@
                     }
                 },
                 "Agou" : {
+                    "capital" : "Agou-Gadjepe",
                     "municipalities" : {
                         "Agou1" : {
                             "capital" : "Agou-Gadzépé"
@@ -199,6 +203,7 @@
                     }
                 },
                 "Kloto" : {
+                    "capital" : "Kpalimé",
                     "municipalities" : {
                         "Kloto1" : {
                             "capital" : "Kpalimé"
@@ -212,6 +217,7 @@
                     }
                 },
                 "Kpélé" : {
+                    "capital" : "Adéta",
                     "municipalities" : {
                         "Kpélé1" : {
                             "capital" : "Adéta"
@@ -222,6 +228,7 @@
                     }
                 },
                 "Danyi" : {
+                    "capital" : "Danyi-Apéyémé",
                     "municipalities" : {
                         "Danyi1" : {
                             "capital" : "Danyi-Elavagno"
@@ -232,6 +239,7 @@
                     }
                 },
                 "Wawa" : {
+                    "capital" : "Badou",
                     "municipalities" : {
                         "Wawa1" : {
                             "capital" : "Badou"
@@ -245,6 +253,7 @@
                     }
                 },
                 "Akébou" : {
+                    "capital" : "Kougnohou",
                     "municipalities" : {
                         "Akébou1" : {
                             "capital" : "Kougnohou"
@@ -255,6 +264,7 @@
                     }
                 },
                 "Amou" : {
+                    "capital" : "Amlamé",
                     "municipalities" : {
                         "Amou1" : {
                             "capital" : "Ouma (Amlamé)"
@@ -268,6 +278,7 @@
                     }
                 },
                 "Anié" : {
+                    "capital" : "Anié",
                     "municipalities" : {
                         "Anié1" : {
                             "capital" : "Anié"
@@ -278,6 +289,7 @@
                     }
                 },
                 "Est-Mono" : {
+                    "capital" : "Elavagnon",
                     "municipalities" : {
                         "Est-Mono1" : {
                             "capital" : "Elavagnon"
@@ -295,6 +307,7 @@
         "Centrale": {
             "prefectures": {
                 "Tchaoudjo" : {
+                    "capital" : "Sokodé",
                     "municipalities" : {
                         "Tchaoudjo1" : {
                             "capital" : "Sokodé"
@@ -311,6 +324,7 @@
                     }
                 },
                 "Tchamba" : {
+                    "capital" : "Tchamba",
                     "municipalities" : {
                         "Tchamba1" : {
                             "capital" : "Tchamba"
@@ -324,6 +338,7 @@
                     }
                 },
                 "Blitta" : {
+                    "capital" : "Blitta",
                     "municipalities" : {
                         "Blitta1" : {
                             "capital" : "Blitta-gare"
@@ -337,6 +352,7 @@
                     }
                 },
                 "Sotouboua" : {
+                    "capital" : "Sotouboua",
                     "municipalities" : {
                         "Sotouboua1" : {
                             "capital" : "Sotouboua"
@@ -350,6 +366,7 @@
                     }
                 },
                 "Mô" : {
+                    "capital" : "Djarkpanga",
                     "municipalities" : {
                         "Mô2" : {
                             "capital" : "Djarkpanga"
@@ -364,6 +381,7 @@
         "Kara": {
             "prefectures": {
                 "Kozah" : {
+                    "capital" : "Kara",
                     "municipalities" : {
                         "Kozah1" : {
                             "capital" : "Kara"
@@ -380,6 +398,7 @@
                     }
                 },
                 "Assoli" : {
+                    "capital" : "Bafilo",
                     "municipalities" : {
                         "Assoli1" : {
                             "capital" : "Bafilo"
@@ -393,6 +412,7 @@
                     }
                 },
                 "Bassar" : {
+                    "capital" : "Bassar",
                     "municipalities" : {
                         "Bassar1" : {
                             "capital" : "Bassar"
@@ -409,6 +429,7 @@
                     }
                 },
                 "Dankpen" : {
+                    "capital" : "Guérin-Kouka",
                     "municipalities" : {
                         "Dankpen1" : {
                             "capital" : "Guérin-Kouka"
@@ -422,6 +443,7 @@
                     }
                 },
                 "Kéran" : {
+                    "capital" : "Kandé",
                     "municipalities" : {
                         "Kéran1" : {
                             "capital" : "Kanté"
@@ -435,6 +457,7 @@
                     }
                 },
                 "Doufelgou" : {
+                    "capital" : "Niamtougou",
                     "municipalities" : {
                         "Doufelgou1" : {
                             "capital" : "Niamtougou"
@@ -448,6 +471,7 @@
                     }
                 },
                 "Binah" : {
+                    "capital" : "Pagouda",
                     "municipalities" : {
                         "Binah1" : {
                             "capital" : "Pagouda"
